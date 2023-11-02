@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kodak_clone_ReactTypescript/static/css/main.e7cfc3ae.css",
-    "main.js": "/kodak_clone_ReactTypescript/static/js/main.61b27ced.js",
+    "main.js": "/kodak_clone_ReactTypescript/static/js/main.81267c85.js",
     "static/js/787.de0a89a4.chunk.js": "/kodak_clone_ReactTypescript/static/js/787.de0a89a4.chunk.js",
     "static/media/Pretendard-Black.woff": "/kodak_clone_ReactTypescript/static/media/Pretendard-Black.8bad248bdb96c3377cbc.woff",
     "static/media/Pretendard-ExtraBold.woff": "/kodak_clone_ReactTypescript/static/media/Pretendard-ExtraBold.88651b953c5d967d1db9.woff",
@@ -24,11 +24,11 @@
     "static/media/slick.woff": "/kodak_clone_ReactTypescript/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/kodak_clone_ReactTypescript/index.html",
     "main.e7cfc3ae.css.map": "/kodak_clone_ReactTypescript/static/css/main.e7cfc3ae.css.map",
-    "main.61b27ced.js.map": "/kodak_clone_ReactTypescript/static/js/main.61b27ced.js.map",
+    "main.81267c85.js.map": "/kodak_clone_ReactTypescript/static/js/main.81267c85.js.map",
     "787.de0a89a4.chunk.js.map": "/kodak_clone_ReactTypescript/static/js/787.de0a89a4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e7cfc3ae.css",
-    "static/js/main.61b27ced.js"
+    "static/js/main.81267c85.js"
   ]
 }
