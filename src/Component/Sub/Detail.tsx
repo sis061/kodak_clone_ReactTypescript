@@ -67,7 +67,7 @@ function Detail(props: DetailProps): JSX.Element {
 
   let [isVisibleImg, setisVisibleImg] = useState<boolean>(true);
   useEffect(() => {
-    isNaN(+Ids.imgUrlDetail5) === false
+    +Ids.imgUrlDetail5 === 0
       ? setisVisibleImg(false)
       : setisVisibleImg(true);
   }, [+Ids.imgUrlDetail5]);
@@ -219,7 +219,7 @@ function ProdDetailCenter({
       <div>
         <Slider {...settings}>
           <img src={"/kodak_clone_ReactTypescript"+Ids.imgUrl} alt={Ids.alt} />
-          <img src={"kodak_clone_ReactTypescript"+Ids.imgUrlSub} alt={Ids.alt} />
+          <img src={"/kodak_clone_ReactTypescript"+Ids.imgUrlSub} alt={Ids.alt} />
         </Slider>
       </div>
       <div className="prdtBottom">
